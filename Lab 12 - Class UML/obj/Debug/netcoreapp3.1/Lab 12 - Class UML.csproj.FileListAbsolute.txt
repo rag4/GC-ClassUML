@@ -1,0 +1,13 @@
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\bin\Debug\netcoreapp3.1\Lab 12 - Class UML.exe
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\bin\Debug\netcoreapp3.1\Lab 12 - Class UML.deps.json
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\bin\Debug\netcoreapp3.1\Lab 12 - Class UML.runtimeconfig.json
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\bin\Debug\netcoreapp3.1\Lab 12 - Class UML.runtimeconfig.dev.json
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\bin\Debug\netcoreapp3.1\Lab 12 - Class UML.dll
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\bin\Debug\netcoreapp3.1\Lab 12 - Class UML.pdb
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\obj\Debug\netcoreapp3.1\Lab 12 - Class UML.csprojAssemblyReference.cache
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\obj\Debug\netcoreapp3.1\Lab 12 - Class UML.AssemblyInfoInputs.cache
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\obj\Debug\netcoreapp3.1\Lab 12 - Class UML.AssemblyInfo.cs
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\obj\Debug\netcoreapp3.1\Lab 12 - Class UML.csproj.CoreCompileInputs.cache
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\obj\Debug\netcoreapp3.1\Lab 12 - Class UML.dll
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\obj\Debug\netcoreapp3.1\Lab 12 - Class UML.pdb
+C:\Users\RAMON\source\repos\Lab 12 - Class UML\Lab 12 - Class UML\obj\Debug\netcoreapp3.1\Lab 12 - Class UML.genruntimeconfig.cache
